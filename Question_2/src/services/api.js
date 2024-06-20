@@ -5,12 +5,12 @@ let token = "";
 const TIMEOUT = 500;
 
 const data = {
-  "companyName": "JayMedi",
+  "companyName": "KinjalMedi",
   "clientID": "bb6834fd-a5ee-4ea4-aeb2-bb55145f1567",
   "clientSecret": "wSrYgTVAZHuhRSbO",
-  "ownerName": "JayLalwani",
-  "ownerEmail": "210303105273@paruluniversity.ac.in",
-  "rollNo": "210303105273"
+  "ownerName": "KinjalShah",
+  "ownerEmail": "210303105331@paruluniversity.ac.in",
+  "rollNo": "210303105331"
 };
 
 export const getProducts = async (company, category, top, minPrice, maxPrice) => {
